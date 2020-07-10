@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165888280352",
+    "firebase_url": "https://warmdoctor-9fe1d.firebaseio.com",
+    "project_id": "warmdoctor-9fe1d",
+    "storage_bucket": "warmdoctor-9fe1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165888280352:android:206c979d3940ce6c42b945",
+        "android_client_info": {
+          "package_name": "com.SegmentationFault.WarmDoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165888280352-k3g3nmde8964ldodkcoc4vtru10uihdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU56YSbSWkzRrIGNzqzW04Iu7Dheot_II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165888280352-k3g3nmde8964ldodkcoc4vtru10uihdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
